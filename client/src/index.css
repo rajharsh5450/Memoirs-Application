@@ -1,0 +1,8 @@
+body {
+  background-color: aliceblue;
+}
+
+* {
+  /* font-family: 'Noto Sans JP' !important; */
+  font-family: "Heebo", sans-serif !important;
+}
