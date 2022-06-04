@@ -1,7 +1,6 @@
 # [Memoirs](https://memoirs-client.netlify.app)
 
-![Memoirs](https://drive.google.com/file/d/1esjeDX1EaFsLgxQbi5N-wC3-4wJclD1m/view?usp=sharing)
-<!-- https://drive.google.com/uc?export=view&id=1esjeDX1EaFsLgxQbi5N-wC3-4wJclD1m -->
+![Memoirs](https://drive.google.com/uc?export=view&id=1esjeDX1EaFsLgxQbi5N-wC3-4wJclD1m)
 
 # Memoirs app is a social media web application made in MERN stack. 
 
